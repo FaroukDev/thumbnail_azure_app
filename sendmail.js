@@ -2,7 +2,7 @@ module.exports = async function (context, myBlob) {
     const imageThumbnail = require('image-thumbnail');
     const fs = require("fs");
     var nodemailer = require('nodemailer');
-    require('./.gitignore/node_modules/dotenv/types').config()
+    require('dotenv/types').config()
     
     
     async function transform(){
