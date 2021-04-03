@@ -8,7 +8,7 @@ the goal of the project is to reduce the size of the images for our application 
 - node.js
 - azure storage and azure function
 ```
-![alt text](https://github.com/FaroukDev/thumbnail_azure_app/blob/main/install.png?raw=true)
+
 ## Installation
 
 ```python
@@ -16,6 +16,7 @@ First we install the dependencies in azure scm the management portal
 - node-mailer
 - image-thumbnail
 ```
+![alt text](https://github.com/FaroukDev/thumbnail_azure_app/blob/main/install.png?raw=true)
 
 ## functionapp
 ```
@@ -27,6 +28,7 @@ specifying the input container and the output container
 ```bash
 we create two container img andthumbnailresize in azure storage
 ```
+![alt text](https://github.com/FaroukDev/thumbnail_azure_app/blob/main/storage.png?raw=true)
 ## Final result
 ```
 we upload the image in the farouktest container and we have the result in the thumnailresize container
