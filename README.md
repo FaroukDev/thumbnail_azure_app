@@ -8,7 +8,7 @@ the goal of the project is to reduce the size of the images for our application 
 - node.js
 - azure storage and azure function
 ```
-
+![alt text](https://github.com/FaroukDev/thumbnail_azure_app/blob/main/install.png?raw=true)
 ## Installation
 
 ```python
