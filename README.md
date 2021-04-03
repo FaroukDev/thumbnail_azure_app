@@ -33,4 +33,4 @@ we upload the image in the farouktest container and we have the result in the th
 ![alt text](http://url/to/final.png)
 ```
 ![alt text](http://url/to/final.png)
-![alt text](https://github.com/FaroukDev/thumbnail_azure_app/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/FaroukDev/thumbnail_azure_app/blob/main/final.png?raw=true)
