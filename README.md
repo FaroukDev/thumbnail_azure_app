@@ -30,4 +30,5 @@ we create two container img andthumbnailresize in azure storage
 ## Final result
 ```
 we upload the image in the farouktest container and we have the result in the thumnailresize container
+![alt text](http://url/to/final.png)
 ```
